@@ -1,0 +1,129 @@
+Script started on Thu 12 Dec 2019 06:19:54 PM PST
+]0;ahmed021@empress:~/cs311/HWPrograms/final[?1034h[ahmed021@empress final]$ g++ *.cpp
+]0;ahmed021@empress:~/cs311/HWPrograms/final[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ [K[ahmed021@empress final]$ ./a.out
+0:[ empty ]
+1:[ jorge+sanchez+sanch137+5672+9096785435+1  ]
+2:[ empty ]
+3:[ lover+of+lovof123+4578+8904367816+2  lauren+rawls+rawls445+2757+2094799111+34  ]
+4:[ rameen+javadian+javad441+3654+9513109048+66  ]
+5:[ asma+ahmed+ahmed321+1367+9015467890+3  alena+case+case887+1760+8583821165+35  ]
+6:[ donovan+harrison+harri882+4166+5304101786+99  ]
+7:[ kaleigh+dempsey+dempsey+8673+9513768087+68  ]
+8:[ ghazaleh+roshan+rosha545+6371+8586937425+37  ]
+9:[ mane+telpian+telpi743+2184+2178835764+101  ]
+10:[ empty ]
+11:[ sam+ahmed+ahmed521+5720+5690132687+7  angel+meriwether+meriw839+8954+6195586857+102  ]
+12:[ empty ]
+13:[ aaron+trapp+trapp060+7607+9097312514+40  ]
+14:[ taylor+swift+swift793+3802+6267561495+72  ]
+15:[ khusro+ahmed+ahmed032+264+8586725499+9  victoria+du+du786+2047+7606133417+41  ]
+16:[ ishrath+ahmed+ahmed531+8441+9013765589+10  ]
+17:[ empty ]
+18:[ zach+holmes+holme053+3992+9514402785+11  ]
+19:[ empty ]
+20:[ empty ]
+21:[ sam+topasan+topas008+6197+9514002909+13  ]
+22:[ cristina+corona+coron775+4591+6069274306+45  ]
+23:[ empty ]
+24:[ sabrina+gonzales+gonza310+2659+6365446778+78  ]
+25:[ empty ]
+26:[ samiah+ahmed+ahmed963+7843+4670426183+16  cammy+le+le087+9375+7028847300+16  ]
+27:[ cherish+best+best087+5125+7609964624+48  ]
+28:[ empty ]
+29:[ empty ]
+30:[ vivian+ofelia+ofel491+4101+9512947209+82  ]
+31:[ empty ]
+32:[ empty ]
+33:[ joyce+magistado+magis168+4793+7603905125+52  ezra+castillo+casti134+8555+8184813279+20  ]
+34:[ empty ]
+35:[ trent+nicolas+nicol576+1948+6198620198+21  ]
+36:[ yaseen+hasan+hasan020+3751+8589148374+22  ]
+37:[ empty ]
+38:[ huzayfa+ahmed+ahmed863+7259+9093592181+55  ]
+39:[ empty ]
+40:[ sara+khan+khan001+8430+8586631924+88  camillia+cabillo+cabil948+1727+7602889541+88  ]
+41:[ aasiya+ahmed+ahmed678+9057+8974539045+25  ]
+42:[ empty ]
+43:[ empty ]
+44:[ misbah+ahmed+ahmed670+7431+6014653871+90  ]
+45:[ kana+day+day212+7654+2543764877+27  george+ezra+ezra382+6227+9166932264+59  ]
+46:[ empty ]
+47:[ jessica+lumm+lumm070+5608+7604104166+92  ]
+48:[ ady+lu+lu044+3279+6198504227+29  ]
+49:[ empty ]
+50:[ empty ]
+51:[ empty ]
+52:[ micheal+jackson+jacks367+4104+6614872311+63  juliana+inglese+ingle+2019+9097622757+95  ]
+
+Enter the ID for the person you want to search: 59
+Found 59: george+ezra+ezra382+6227+9166932264+59 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 46
+46 not found
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 95
+Found 95: juliana+inglese+ingle+2019+9097622757+95 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 16
+Found 16: samiah+ahmed+ahmed963+7843+4670426183+16 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 1
+Found 1: jorge+sanchez+sanch137+5672+9096785435+1 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 3
+Found 3: asma+ahmed+ahmed321+1367+9015467890+3 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 20
+Found 20: ezra+castillo+casti134+8555+8184813279+20 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 19
+19 not found
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 4
+4 not found
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 100
+100 not found
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 102
+Found 102: angel+meriwether+meriw839+8954+6195586857+102 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 34
+Found 34: lauren+rawls+rawls445+2757+2094799111+34 
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 1
+Enter the ID for the person you want to search: 
+53
+53 not found
+
+Enter 0 to stop searching and end program
+To continue searching enter 1: 0
+
+Ending program. Goodbye.
+]0;ahmed021@empress:~/cs311/HWPrograms/final[ahmed021@empress final]$ exit
+exit
+
+Script done on Thu 12 Dec 2019 06:21:32 PM PST
